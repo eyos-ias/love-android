@@ -29,7 +29,7 @@
         android:name="org.love2d.android.GameActivity"
         android:exported="true"
         android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|keyboard|keyboardHidden|navigation"
-        android:label="${NAME}"
+        android:label="balatro"
         android:launchMode="singleInstance"
         android:screenOrientation="${ORIENTATION}"
         android:resizeableActivity="false"
